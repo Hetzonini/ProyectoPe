@@ -1,0 +1,523 @@
+Archivo para el diccionario: -¿ahora?     1
+2015         1
+abcdefghijklmnñopqrstuvwxyzáéíó 1
+al           1
+ana          4
+anis         1
+anita        1
+ansi         1
+archivo      1
+c            1
+codificado   1
+como         1
+constituye   1
+consulte     1
+de           1
+detalles     1
+dice         1
+dr           2
+en           2
+es           4
+esta         1
+este         1
+frase        2
+http://aragon 2
+la           3
+lava         1
+leido        1
+misma        1
+mx           1
+mx/cyp       2
+no           1
+palabra      1
+palindromo   3
+para         1
+por          1
+que          4
+regada       1
+reves        1
+se           1
+si           1
+sigue        1
+tambien      1
+tina         1
+transforma   1
+un           4
+una          1
+unam         3
+Numero de elementos en la lista: 47
+
+Digite una palabra o 'fin' para terminar: aans
+aans
+aas
+abns
+abs
+acns
+acs
+adns
+ads
+aens
+aes
+afns
+afs
+agns
+ags
+ahns
+ahs
+ains
+ais
+ajns
+ajs
+akns
+aks
+alns
+als
+amns
+ams
+an
+ana
+anas
+anb
+anbs
+anc
+ancs
+and
+ands
+ane
+anes
+anf
+anfs
+ang
+angs
+anh
+anhs
+ani
+anis
+anj
+anjs
+ank
+anks
+anl
+anls
+anm
+anms
+ann
+anns
+anns
+ano
+anos
+anp
+anps
+anq
+anqs
+anr
+anrs
+ans
+ans
+ans
+ans
+ansa
+ansb
+ansc
+ansd
+anse
+ansf
+ansg
+ansh
+ansi
+ansj
+ansk
+ansl
+ansm
+ansn
+anso
+ansp
+ansq
+ansr
+anss
+anss
+anst
+ansu
+ansv
+answ
+ansx
+ansy
+ansz
+ansá
+ansé
+ansí
+ansñ
+ansó
+ansú
+ant
+ants
+anu
+anus
+anv
+anvs
+anw
+anws
+anx
+anxs
+any
+anys
+anz
+anzs
+aná
+anás
+ané
+anés
+aní
+anís
+anñ
+anñs
+anó
+anós
+anú
+anús
+aons
+aos
+apns
+aps
+aqns
+aqs
+arns
+ars
+as
+asn
+asns
+ass
+atns
+ats
+auns
+aus
+avns
+avs
+awns
+aws
+axns
+axs
+ayns
+ays
+azns
+azs
+aáns
+aás
+aéns
+aés
+aíns
+aís
+añns
+añs
+aóns
+aós
+aúns
+aús
+bans
+bns
+cans
+cns
+dans
+dns
+eans
+ens
+fans
+fns
+gans
+gns
+hans
+hns
+ians
+ins
+jans
+jns
+kans
+kns
+lans
+lns
+mans
+mns
+nans
+nas
+nns
+ns
+oans
+ons
+pans
+pns
+qans
+qns
+rans
+rns
+sans
+sns
+tans
+tns
+uans
+uns
+vans
+vns
+wans
+wns
+xans
+xns
+yans
+yns
+zans
+zns
+áans
+áns
+éans
+éns
+íans
+íns
+ñans
+ñns
+óans
+óns
+úans
+Numero de elementos en la lista de clonacion: 230
+
+
+Tal vez ud quiso decir:
+(palabra	 frecuencia)
+ana	4
+anis	1
+ansi	1
+Numero de elementos en la lista de opciones: 3
+
+Digite una palabra o 'fin' para terminar: afin
+ain
+bfin
+bin
+cfin
+cin
+dfin
+din
+efin
+ein
+fain
+fan
+fbin
+fbn
+fcin
+fcn
+fdin
+fdn
+fein
+fen
+ffin
+ffin
+ffn
+fgin
+fgn
+fhin
+fhn
+fi
+fia
+fian
+fib
+fibn
+fic
+ficn
+fid
+fidn
+fie
+fien
+fif
+fifn
+fig
+fign
+fih
+fihn
+fii
+fiin
+fiin
+fij
+fijn
+fik
+fikn
+fil
+filn
+fim
+fimn
+fin
+fin
+fin
+fin
+fina
+finb
+finc
+find
+fine
+finf
+fing
+finh
+fini
+finj
+fink
+finl
+finm
+finn
+finn
+fino
+finp
+finq
+finr
+fins
+fint
+finu
+finv
+finw
+finx
+finy
+finz
+finá
+finé
+finí
+finñ
+finó
+finú
+fio
+fion
+fip
+fipn
+fiq
+fiqn
+fir
+firn
+fis
+fisn
+fit
+fitn
+fiu
+fiun
+fiv
+fivn
+fiw
+fiwn
+fix
+fixn
+fiy
+fiyn
+fiz
+fizn
+fiá
+fián
+fié
+fién
+fií
+fiín
+fiñ
+fiñn
+fió
+fión
+fiú
+fiún
+fjin
+fjn
+fkin
+fkn
+flin
+fln
+fmin
+fmn
+fn
+fni
+fnin
+fnn
+foin
+fon
+fpin
+fpn
+fqin
+fqn
+frin
+frn
+fsin
+fsn
+ftin
+ftn
+fuin
+fun
+fvin
+fvn
+fwin
+fwn
+fxin
+fxn
+fyin
+fyn
+fzin
+fzn
+fáin
+fán
+féin
+fén
+fíin
+fín
+fñin
+fñn
+fóin
+fón
+fúin
+fún
+gfin
+gin
+hfin
+hin
+ifin
+ifn
+iin
+in
+jfin
+jin
+kfin
+kin
+lfin
+lin
+mfin
+min
+nfin
+nin
+ofin
+oin
+pfin
+pin
+qfin
+qin
+rfin
+rin
+sfin
+sin
+tfin
+tin
+ufin
+uin
+vfin
+vin
+wfin
+win
+xfin
+xin
+yfin
+yin
+zfin
+zin
+áfin
+áin
+éfin
+éin
+ífin
+íin
+ñfin
+ñin
+ófin
+óin
+úfin
+Numero de elementos en la lista de clonacion: 230
+
+
+Tal vez ud quiso decir:
+(palabra	 frecuencia)
+Numero de elementos en la lista de opciones: 0
