@@ -1,14 +1,2 @@
 ﻿  Corrector.cpp
-C:\Users\hetzo\Documents\UNI\Computadoras y programación\Programas\Proyecto\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(55,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  (compilando archivo de origen "/Corrector.cpp")
-  
-C:\Users\hetzo\Documents\UNI\Computadoras y programación\Programas\Proyecto\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(72,12): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  (compilando archivo de origen "/Corrector.cpp")
-  
-C:\Users\hetzo\Documents\UNI\Computadoras y programación\Programas\Proyecto\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(166,20): warning C4018: '<': no coinciden signed/unsigned
-  (compilando archivo de origen "/Corrector.cpp")
-  
-C:\Users\hetzo\Documents\UNI\Computadoras y programación\Programas\Proyecto\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(183,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  (compilando archivo de origen "/Corrector.cpp")
-  
   quisodecir.vcxproj -> C:\Users\hetzo\Documents\UNI\Computadoras y programación\Programas\Proyecto\quisodecirAlumnosVisual2019\quisodecirAlumnos\Debug\quisodecir.exe

@@ -37,3 +37,4 @@ void	ListaCandidatas		(
 	int  iPeso[],							//Peso de las palabras en la lista final
 	int &iNumLista);						//Numero de elementos en la szListaFinal
 
+
