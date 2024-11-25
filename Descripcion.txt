@@ -1,0 +1,1 @@
+Este proyecto es para hacer un autocorrector, en base a un texto donde lee el archivo, crea un diccionario con base a esto y apartir de ahi pedira al usuario escribir una palabra, a lo que la lee y te dira si esa es la palabra que quieres decir.
